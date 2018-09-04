@@ -1,0 +1,16 @@
+{
+    "name": "nsqdev/project",
+    "description": "NSQ DEV PROJECT",
+    "type": "application",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "NSQ DEV",
+            "email": "nsqdev@nsqdev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "opentok/opentok": "3.0.*"
+    }
+}
